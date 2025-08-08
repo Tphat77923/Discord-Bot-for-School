@@ -7,7 +7,7 @@ const parseExcel = require("../../utils/parseExcel.js");
 const exportLoginExcel = require("../../utils/exportLoginExcel.js");
 const createClassChannels = require("../../utils/createClassChannels.js");
 const Class = require("../../models/Class.js");
-const School = require("../../models/school.js");
+const School = require("../../models/School.js");
 
 module.exports = {
     name: "setup",
