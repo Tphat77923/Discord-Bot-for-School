@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# Discord-Bot-for-School
-Simple discord bot for create school with classes managed.
-=======
----
 
-```markdown
 # 📚 Discord School Bot
 
 **A simple but powerful Discord bot to manage virtual schools and classes.**  
@@ -75,7 +69,7 @@ node index.js
 
 > Here’s an example of the bot interface in action:
 
-![Help command](https://imgr.com/qgwiqwd)
+![Help command](https://github.com/Tphat77923/Discord-Bot-for-School/blob/main/help.png?raw=true)
 
 ---
 
@@ -103,8 +97,3 @@ If you'd like to contribute features like quiz systems, homework management, or 
 
 Created with ❤️ by [tphat](https://github.com/your-username)  
 For questions or support, open an issue or ping me on Discord!
-
-```
-
----
->>>>>>> 7f7df37 (Simple bot)
