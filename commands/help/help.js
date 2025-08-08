@@ -58,7 +58,7 @@ module.exports = {
 
     // 🔽 Tạo embed fancy
     const embed = new EmbedBuilder()
-      .setTitle('📖 Teleport Bot Command List')
+      .setTitle('📖 School Bot Command List')
       .setColor('#2ecc71')
       .setThumbnail(client.user.displayAvatarURL())
       .setFooter({
