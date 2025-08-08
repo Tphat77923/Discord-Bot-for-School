@@ -1,0 +1,19 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "description": "discord class",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main"
+  },
+  "author": "tphat",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.0",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  }
+}
