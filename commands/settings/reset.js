@@ -2,7 +2,7 @@ const { PermissionFlagsBits, ApplicationCommandOptionType, ChannelType } = requi
 const Student = require("../../models/Student.js");
 const Teacher = require("../../models/Teacher.js");
 const Class = require("../../models/Class.js");
-const School = require("../../models/school.js");
+const School = require("../../models/School.js");
 
 function normalizeClassName(name) {
   return name.trim().toLowerCase().replace(/[\s_-]/g, "");
