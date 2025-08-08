@@ -77,7 +77,7 @@ module.exports = {
 
     embed.addFields({
       name: '🔗 Need more help?',
-      value: '[📘 Support Server](https://tphat77923.github.io/teleport/endercity.html) | [➕ Invite me](https://tphat77923.github.io/teleport/invite.html)',
+      value: '[📘 Support Server](https://tphat77923.github.io/teleport/endercity.html) | [➕ Invite me](https://discord.com/oauth2/authorize?client_id=1390542494168518686)',
     });
 
     await interaction.reply({ embeds: [embed] });
