@@ -1,7 +1,7 @@
 const { ChannelType, PermissionsBitField } = require("discord.js");
-const Student = require("../models/student.js");
-const Teacher = require("../models/teacher.js");
-const Class = require("../models/class.js");
+const Student = require("../models/Student.js");
+const Teacher = require("../models/Teacher.js");
+const Class = require("../models/Class.js");
 
 function normalizeClassName(name) {
   return name.trim().toLowerCase().replace(/[\s_-]/g, "");
