@@ -95,5 +95,5 @@ If you'd like to contribute features like quiz systems, homework management, or 
 
 ## 💬 Contact
 
-Created with ❤️ by [tphat](https://github.com/your-username)  
+Created with ❤️ by [tphat](https://github.com/Tphat77923)  
 For questions or support, open an issue or ping me on Discord!
