@@ -31,7 +31,7 @@ module.exports = async (data) => {
     ]);
   }
 
-  const filePath = path.join(__dirname, "../temp/logins.xlsx");
+  const filePath = path.join(__dirname, "../tmp/logins.xlsx");
   await workbook.xlsx.writeFile(filePath);
 
   return filePath;
