@@ -36,7 +36,7 @@ module.exports = {
   callback: async (client, interaction) => {
     try {
         await interaction.deferReply({
-  content: "please wait...",
+  //content: "please wait...",
   //flags: 1 << 6
 });
 
