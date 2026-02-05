@@ -85,7 +85,7 @@ module.exports = {
       if (!file.name.endsWith(".xlsx")) {
         return msg.reply("⚠️ File must be in .xlsx format");      }
 
-      const filePath = path.join(__dirname, `../../temp/${Date.now()}.xlsx`);
+      const filePath = path.join(__dirname, `../../tmp/${Date.now()}.xlsx`);
 
       const response = await fetch(file.url);
       const buffer = await response.arrayBuffer();
