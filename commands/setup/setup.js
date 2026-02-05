@@ -37,7 +37,7 @@ module.exports = {
     try {
         await interaction.deferReply({
   content: "please wait...",
-  flags: 1 << 6 // FLAG: EPHEMERAL
+  //flags: 1 << 6
 });
 
     const userId = interaction.user.id;
