@@ -8,11 +8,11 @@ Upload an Excel file and instantly create a fully functioning school server, com
 
 ## ✨ Features
 
-- ✅ **Easy Setup with Excel** – Just upload a spreadsheet to create students, teachers, and class structures.
-- 🔐 **Secure Login System** – Modal-based login with hashed passwords (bcrypt).
-- 👩‍🏫 **Teacher & Student Management** – Handle roles, permissions, and class assignments effortlessly.
-- 📅 **Daily Quiz & Achievements** *(ongoing)* – Gamify learning with auto quizzes and achievement tracking.
-- 📝 **Automatic Homework Manager** *(ongoing)* – Assignments handled directly within Discord.
+- [x] ✅ **Easy Setup with Excel** – Just upload a spreadsheet to create students, teachers, and class structures.
+- [x] 🔐 **Secure Login System** – Modal-based login with hashed passwords (bcrypt).
+- [x] 👩‍🏫 **Teacher & Student Management** – Handle roles, permissions, and class assignments effortlessly.
+- [ ] 📅 **Daily Quiz & Achievements** *(ongoing)* – Gamify learning with auto quizzes and achievement tracking.
+- [ ] 📝 **Automatic Homework Manager** *(ongoing)* – Assignments handled directly within Discord.
 
 ---
 
